@@ -3,6 +3,7 @@
   critical: false
   hidden: false
   selected: false
+  expanded: true
   packages:
     - archlinux-tweak-tool-git
     - arcolinux-arc-kde
