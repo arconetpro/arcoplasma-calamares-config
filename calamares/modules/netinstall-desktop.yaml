@@ -5,25 +5,11 @@
   selected: false
   expanded: true
   packages:
-    - archlinux-tweak-tool-git
     - arcolinux-arc-kde
     - arcolinux-plasma-theme-candy-beauty-arc-dark-git
     - arcolinux-plasma-theme-candy-beauty-nordic-git
     - arcolinux-plasma-theme-surfn-arc-dark-git
     - arcolinux-plasma-theme-surfn-nordic-git
-    - arcolinux-root-git
-    - arcolinux-wallpapers-git
-    - ark
-    - breeze
-    - cryfs
-    - discover
-    - dolphin
-    - dolphin-plugins
-    - encfs
-    - ffmpegthumbs
-    - gocryptfs
-    - gwenview
-    - kate
     - kde-accessibility-meta
     - kde-applications-meta
     - kde-development-environment-meta
@@ -41,14 +27,7 @@
     - kdeconnect
     - kdenetwork-filesharing
     - kdevelop-meta
-    - kdevelop-meta   
     - ktorrent
-    - ocs-url
-    - okular
     - packagekit-qt5
-    - partitionmanager
     - plasma-meta
-    - spectacle
-    - surfn-plasma-dark-icons-git
     - surfn-plasma-light-icons-git
-    - yakuake
