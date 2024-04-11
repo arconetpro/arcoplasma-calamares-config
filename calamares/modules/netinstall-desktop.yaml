@@ -1,5 +1,5 @@
-- name: "Desktop: Plasma full"
-  description: "Installs plasma desktop with all (meta) packages"
+- name: "Desktop: ArcoLinux packages"
+  description: "Installs the extra ArcoLinux themes and settings"
   critical: false
   hidden: false
   selected: false
@@ -12,6 +12,13 @@
     - arcolinux-plasma-theme-candy-beauty-nordic-git
     - arcolinux-plasma-theme-surfn-arc-dark-git
     - arcolinux-plasma-theme-surfn-nordic-git
+- name: "Desktop: Plasma full"
+  description: "Installs plasma desktop with all (meta) packages"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
     - kde-accessibility-meta
     - kde-applications-meta
     - kde-development-environment-meta
