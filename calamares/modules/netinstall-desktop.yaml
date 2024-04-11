@@ -1,5 +1,5 @@
-- name: "Desktop: ArcoLinux packages"
-  description: "Installs the extra ArcoLinux themes and settings"
+- name: "Desktop: ArcoLinux packages for Plasma"
+  description: "Installs the extra ArcoLinux themes and settings for Plasma"
   critical: false
   hidden: false
   selected: false
